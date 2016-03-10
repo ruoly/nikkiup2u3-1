@@ -41,9 +41,10 @@
 	margin-left: 2%;
 	border:1px solid #278FC9;
 	background-image: url(../images/background_mobile.png);	
-	background-size:30%;
+	background-size:60%;
 	background-repeat:no-repeat;
   background-position:50% 50%;
+  background-attachment:fixed;
 }
 
 #guestbook {
