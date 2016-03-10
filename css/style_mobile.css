@@ -43,8 +43,7 @@
 	background-image: url(../images/background_mobile.png);	
 	background-size:60%;
 	background-repeat:no-repeat;
-  background-position:50% 50%;
-  background-attachment:fixed;
+  	background-position:50% 50%;
 }
 
 #guestbook {
